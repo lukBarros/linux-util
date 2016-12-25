@@ -6,6 +6,4 @@ Coleção de arquivos SH para instalar, configurar e preperar várias coisas em 
 
 ### Git e SmartGi
 
-´´
-./gitinstall.sh
-´´
+[[install-git.sh]]
